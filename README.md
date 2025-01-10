@@ -6,9 +6,10 @@
 
 <h2 align="center">A Few Thing About Me</h2>
 
-<li>Keen to learn to be a <b>Front-End Developer 💻</b></li>
-<li>Focused on Improvement 💪</li>
-<li>Playing Games 🎮</li>
+<p>💻 Keen to learn to be a Front-End Developer | Passionate about building sleek and responsive websites.</p>
+<p>🎮 Playing Games | Exploring new worlds and mechanics in the gaming universe.</p>
+<p>💪 Focused on Improvement | Always pushing myself to learn and grow in the tech space.</p>
+<p>✨ Embracing new challenges | Constantly experimenting with modern web technologies and coding practices.</p>
 </br>
 
 ![SoramiKS]([https://count.getloli.com/@:name](https://count.getloli.com/@SoramiKS?name=SoramiKS&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
