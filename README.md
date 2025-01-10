@@ -13,6 +13,7 @@
 </br>
 
 <h2 align="center">What i used:</h2>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -21,6 +22,7 @@
 ![Next JS](https://img.shields.io/badge/Next-%23000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
+<h2 align="center">Statistik</h2>
 
-![SoramiKS]([https://count.getloli.com/@:name](https://count.getloli.com/@SoramiKS?name=SoramiKS&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
+![SoramiKS](https://count.getloli.com/get/@:SoramiKS)
 ![SoramiKS's Stats](https://github-readme-stats.vercel.app/api?username=SoramiKS&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
