@@ -25,9 +25,7 @@
 <h2 align="center">Statistik</h2>
 
 ![SoramiKS](https://count.getloli.com/get/@:SoramiKS)</br>
-  
-![Visitor](https://count.getloli.com/get/@:hansfigo)
 
-| [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent)](https://github.com/hansfigo/hansfigo) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&layout=compact&langs_count=8&theme=transparent)](https://github.com/hansfigo/hansfigo) |
+| ![SoramiKS's Stats](https://github-readme-stats.vercel.app/api?username=SoramiKS&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoramiKS&layout=compact&langs_count=8&theme=transparent&size_weight=8&count_weight=0)](https://github.com/SoramiKS/github-readme-stats) |
 | --- | --- |
 
