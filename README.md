@@ -1,7 +1,9 @@
 <h1 align="center">
-  Hey Hey 👋</h1>
+  Hey Hey 👋
+</h1>
+
 <div align="center">
-<img src="https://media1.tenor.com/m/iOG-xvGrcVQAAAAd/hayasaka-kaguya.gif" width="50%"/>
+<img src="https://media1.tenor.com/m/6ZSWcIAVYMIAAAAd/niange-silver-wolf.gif" width="30%"/>
 </div>
 
 <h2 align="center">A Few Thing About Me</h2>
@@ -26,6 +28,16 @@
 
 ![SoramiKS](https://count.getloli.com/get/@:SoramiKS)</br>
 
-| ![SoramiKS's Stats](https://github-readme-stats.vercel.app/api?username=SoramiKS&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoramiKS&layout=compact&langs_count=8&theme=transparent&size_weight=8&count_weight=0)](https://github.com/SoramiKS/github-readme-stats) |
-| --- | --- |
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SoramiKS&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></td>
+    <td><a href="https://github.com/SoramiKS/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoramiKS&layout=compact&langs_count=8&theme=transparent&size_weight=8&count_weight=0" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://media.tenor.com/jNcybMC0_cMAAAAi/pixel.gif" width="30%"/>
+    </td>
+  </tr>
+</table>
+
 
