@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**SoramiKS/SoramiKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey Hey 👋</h1>
+<div align="center">
+<img src="https://media1.tenor.com/m/iOG-xvGrcVQAAAAd/hayasaka-kaguya.gif" width="50%"/>
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center">A Few Thing About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li>Keen to learn to be a <b>Front-End Developer 💻</b></li>
+<li>Focused on Improvement 💪</li>
+<li>Playing Games 🎮</li>
+</br>
+
+![SoramiKS]([https://count.getloli.com/@:name](https://count.getloli.com/@SoramiKS?name=SoramiKS&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
+
+![SoramiKS's Stats](https://github-readme-stats.vercel.app/api?username=SoramiKS&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
