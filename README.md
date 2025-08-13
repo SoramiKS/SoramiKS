@@ -1,43 +1,68 @@
 <h1 align="center">
-  Hey Hey 👋
+  Hey Hey 👋  
+  <br/>I'm SoramiKS — <i>Turning coffee ☕ into clean code 💻</i>
 </h1>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/6ZSWcIAVYMIAAAAd/niange-silver-wolf.gif" width="30%"/>
+  <img src="https://media1.tenor.com/m/6ZSWcIAVYMIAAAAd/niange-silver-wolf.gif" width="35%" style="border-radius:15px;"/>
 </div>
 
-<h2 align="center">A Few Thing About Me</h2>
+---
 
-<p>💻 Keen to learn to be a Front-End Developer | Passionate about building sleek and responsive websites.</p>
-<p>🎮 Playing Games | Exploring new worlds and mechanics in the gaming universe.</p>
-<p>💪 Focused on Improvement | Always pushing myself to learn and grow in the tech space.</p>
-<p>✨ Embracing new challenges | Constantly experimenting with modern web technologies and coding practices.</p>
-</br>
+<h2 align="center">🌸 About Me</h2>
 
-<h2 align="center">What i used:</h2>
+<ul>
+  <li>💻 <b>Frontend Dev in Progress</b> — Crafting sleek & responsive websites</li>
+  <li>🎮 <b>Gamer</b> — Exploring worlds & new game mechanics</li>
+  <li>💪 <b>Self-Improvement Junkie</b> — Always learning & leveling up</li>
+  <li>✨ <b>Challenge Seeker</b> — Experimenting with modern web tech</li>
+</ul>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-%23000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+---
 
-<h2 align="center">Statistik</h2>
+<h2 align="center">🛠 Tech I Use</h2>
 
-![SoramiKS](https://count.getloli.com/get/@:SoramiKS)</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-%23000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SoramiKS&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></td>
-    <td><a href="https://github.com/SoramiKS/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoramiKS&layout=compact&langs_count=8&theme=transparent&size_weight=8&count_weight=0" /></a></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://media.tenor.com/jNcybMC0_cMAAAAi/pixel.gif" width="30%"/>
-    </td>
-  </tr>
-</table>
+---
 
+<h2 align="center">📊 GitHub Stats</h2>
 
+<div align="center">
+  <img src="https://count.getloli.com/get/@:SoramiKS" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoramiKS&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoramiKS&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+<h2 align="center">✨ Fun Zone</h2>
+
+<div align="center">
+  <img src="https://media.tenor.com/jNcybMC0_cMAAAAi/pixel.gif" width="25%"/>
+</div>
+
+<p align="center">
+  <i>"Life’s too short for ugly code and slow websites."</i>
+</p>
+
+---
+
+<h2 align="center">🚀 Let's Build Something Cool</h2>
+
+<p align="center">
+  <a href="https://github.com/SoramiKS?tab=repositories">
+    🔗 Check out my projects
+  </a>
+</p>
