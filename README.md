@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey Hey 👋  
+  Hey Hey
   <br/>I'm SoramiKS — <i>Turning coffee ☕ into clean code 💻</i>
 </h1>
 
@@ -12,10 +12,10 @@
 <h2 align="center">🌸 About Me</h2>
 
 <ul>
-  <li>💻 <b>Frontend Dev in Progress</b> — Crafting sleek & responsive websites</li>
-  <li>🎮 <b>Gamer</b> — Exploring worlds & new game mechanics</li>
-  <li>💪 <b>Self-Improvement Junkie</b> — Always learning & leveling up</li>
-  <li>✨ <b>Challenge Seeker</b> — Experimenting with modern web tech</li>
+  <li><b>Frontend Dev in Progress</b> — Crafting sleek & responsive websites</li>
+  <li><b>Gamer</b> — Exploring worlds & new game mechanics</li>
+  <li><b>Self-Improvement Junkie</b> — Always learning & leveling up</li>
+  <li><b>Challenge Seeker</b> — Experimenting with modern web tech</li>
 </ul>
 
 ---
@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://count.getloli.com/get/@:SoramiKS" alt="Profile Views"/>
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">✨ Fun Zone</h2>
+<h2 align="center">Fun Zone</h2>
 
 <div align="center">
   <img src="https://media.tenor.com/jNcybMC0_cMAAAAi/pixel.gif" width="25%"/>
@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="center">🚀 Let's Build Something Cool</h2>
+<h2 align="center">Let's Build Something Cool</h2>
 
 <p align="center">
   <a href="https://github.com/SoramiKS?tab=repositories">
