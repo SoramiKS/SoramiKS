@@ -1,6 +1,6 @@
 <h1 align="center">
   Hey Hey
-  <br/>I'm SoramiKS — <i>Turning coffee ☕ into clean code 💻</i>
+  <br/>I'm Emil — <i>Turning coffee ☕ into clean code 💻</i>
 </h1>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <ul>
   <li><b>Frontend Dev in Progress</b> — Crafting sleek & responsive websites</li>
@@ -20,7 +20,7 @@
 
 ---
 
-<h2 align="center">🛠 Tech I Use</h2>
+<h2 align="center">Tech I Use</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
